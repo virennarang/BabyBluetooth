@@ -125,6 +125,8 @@ BabyBluetooth *baby;
     baby.bePeripheral().addServices(@[s1,s2]).startAdvertising();
 }
 
+Baby Bluetooth is here.
+
 //设置蓝牙外设模式的委托
 -(void)babyDelegate{
 
